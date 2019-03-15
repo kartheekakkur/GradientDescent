@@ -1,7 +1,7 @@
 # GradientDescent
 Notebook implementing the Gradient Descent
 
-### Implementing the basic functions
+# Implementing the basic functions
 Here is your turn to shine. Implement the following formulas, as explained in the text.
 - Sigmoid activation function
 
